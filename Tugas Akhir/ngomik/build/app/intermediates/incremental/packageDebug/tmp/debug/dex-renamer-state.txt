@@ -1,4 +1,0 @@
-#Fri Jun 11 13:39:22 ICT 2021
-base.0=C\:\\Users\\ichan\\Documents\\Sandy\\Semester 6\\Mobile Programming\\tugas\\Ngomik\\ngomik\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
